@@ -1,0 +1,12 @@
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApp時區顯示.csprojResolveAssemblyReference.cache
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApp時區顯示.csproj.GenerateResource.Cache
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\m306\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\m306\Documents\Visual Studio 2015\Projects\成績統計(form)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\m306\Documents\Visual Studio 2015\Projects\成績統計(form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\m306\Documents\Visual Studio 2015\Projects\成績統計(form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

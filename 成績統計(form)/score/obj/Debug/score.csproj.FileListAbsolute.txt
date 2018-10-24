@@ -1,0 +1,9 @@
+c:\users\m306\documents\visual studio 2015\Projects\score\score\bin\Debug\score.exe.config
+c:\users\m306\documents\visual studio 2015\Projects\score\score\bin\Debug\score.exe
+c:\users\m306\documents\visual studio 2015\Projects\score\score\bin\Debug\score.pdb
+c:\users\m306\documents\visual studio 2015\Projects\score\score\obj\Debug\score.csprojResolveAssemblyReference.cache
+c:\users\m306\documents\visual studio 2015\Projects\score\score\obj\Debug\score.Form1.resources
+c:\users\m306\documents\visual studio 2015\Projects\score\score\obj\Debug\score.Properties.Resources.resources
+c:\users\m306\documents\visual studio 2015\Projects\score\score\obj\Debug\score.csproj.GenerateResource.Cache
+c:\users\m306\documents\visual studio 2015\Projects\score\score\obj\Debug\score.exe
+c:\users\m306\documents\visual studio 2015\Projects\score\score\obj\Debug\score.pdb
